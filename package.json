@@ -1,0 +1,28 @@
+{
+  "name": "challenge_12_employee_tracker",
+  "version": "1.0.0",
+  "description": "This is challenge 12 Employee Tracker!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanMosur06/challenge_12_Employee_Tracker.git"
+  },
+  "keywords": [
+    "npm",
+    "db"
+  ],
+  "author": "Ian M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IanMosur06/challenge_12_Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/IanMosur06/challenge_12_Employee_Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
